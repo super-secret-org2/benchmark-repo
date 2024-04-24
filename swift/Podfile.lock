@@ -1,5 +1,6 @@
 PODS:
   - 1PasswordExtension (1.8.5)
+  - ZIPFoundation (0.9.16)
   - AFNetworking (3.2.1):
     - AFNetworking/NSURLSession (= 3.2.1)
     - AFNetworking/Reachability (= 3.2.1)
